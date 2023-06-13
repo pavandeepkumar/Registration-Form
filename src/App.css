@@ -1,0 +1,26 @@
+
+
+.form {
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  background-color: #f8f9fa;
+}
+ .tab-link {
+  border: 1px solid #007bff;
+  border-radius: 5px;
+  padding: 5px 10px;
+  background-color: #fff;
+  color: #007bff;
+  cursor: pointer;
+  margin-right: 5px;
+}
+ .tab-link.active {
+  background-color: #007bff;
+  color: #fff;
+}
+#form-body
+{
+    background-color:rgba(128, 128, 128, 0.475);
+}
